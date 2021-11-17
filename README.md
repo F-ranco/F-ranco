@@ -7,6 +7,10 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Franco+Ezequiel+Oropel+Sottile++;+Full-Stack-Web-Developer"></a>
 </p>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Franco+Ezequiel+Oropel+Sottile++;+Full-Stack-Web-Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
 
 <p align="center"><em>¡Hola 👋! Me llamo Franco, podes decirme Fran, tengo 21 años y soy Full Stack Developer con orientación a Back-End.
 Soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos en el mundo de la programación <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br></br>¡Me gustaria conocerte y compartirte mis habilidades!</em></p>
