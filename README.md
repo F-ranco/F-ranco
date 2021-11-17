@@ -11,8 +11,10 @@
 
 ## Contáctame 
 
-<a href="https://www.linkedin.com/in/franco-oropel/" ><img src="https://e7.pngegg.com/pngimages/973/856/png-clipart-linkedin-computer-icons-social-network-user-profile-youtube-nut-miscellaneous-text.png" alt="Linkedin Logo" height="50" >
-<a href="mailto:francooropel00@gmail.com" ><img src="https://w7.pngwing.com/pngs/945/191/png-transparent-gmail-logo-computer-icons-gmail-scalable-graphics-email-gmail-size-icon-angle-text-trademark-thumbnail.png" alt="Gmail Logo" height="50" >
+<p align="center">
+    <a href="https://www.linkedin.com/in/franco-oropel/" ><img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" alt="Linkedin Logo" height="60" >
+    <a href="mailto:francooropel00@gmail.com" ><img src="https://w7.pngwing.com/pngs/53/385/png-transparent-computer-icons-email-electronic-mailing-list-email-miscellaneous-logo-black-and-white.png" alt="Gmail Logo" height="60" >
+</p>
 
 ---
 
