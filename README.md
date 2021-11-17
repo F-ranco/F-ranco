@@ -13,7 +13,7 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/franco-oropel/" ><img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" alt="Linkedin Logo" height="60" >
-    <a href="mailto:francooropel00@gmail.com" ><img src="https://w7.pngwing.com/pngs/945/191/png-transparent-gmail-logo-computer-icons-gmail-scalable-graphics-email-gmail-size-icon-angle-text-trademark-thumbnail.png" alt="Gmail Logo" height="60" >
+    <a href="mailto:francooropel00@gmail.com" ><img src="https://image.flaticon.com/icons/png/512/95/95627.png" alt="Gmail Logo" height="60" >
 </p>
 
 ---
