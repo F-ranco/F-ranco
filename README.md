@@ -12,8 +12,8 @@
 ## Contáctame 
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/franco-oropel/" ><img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" alt="Linkedin Logo" height="60" >
-    <a href="mailto:francooropel00@gmail.com" ><img src="https://image.flaticon.com/icons/png/512/95/95627.png" alt="Gmail Logo" height="60" >
+    <a href="https://www.linkedin.com/in/franco-oropel/" ><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin Logo" height="60" >
+    <a href="mailto:francooropel00@gmail.com" ><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail Logo" height="60" >
 </p>
 
 ---
