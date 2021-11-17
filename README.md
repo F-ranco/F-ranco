@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Franco+Ezequiel+Oropel+Sottile++;+Full-Stack-Web-Developer"></a>
 </p>
----
 
 ## Contáctame 
 
