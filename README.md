@@ -9,48 +9,53 @@
 </p>
 
 <p align="center"><em>¡Hola 👋! Me llamo Franco, podes decirme Fran, tengo 21 años y soy Full Stack Developer con orientación a Back-End.
-Soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos en el mundo de la programación <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>¡Me gustaria conocerte y compartirte mis habilidades!</em></p>
+Soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos en el mundo de la programación <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br></br>¡Me gustaria conocerte y compartirte mis habilidades!</em></p>
 
-<h3> Tech-Stack </h3>
-
-#### Lenguajes
-
-#### Front-End
-
-<br>
-<div style={{ display:'flex' }}>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="50px" height="50px">
-<img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_1280.png" width="50px" height="50px">
-<img src="https://res.cloudinary.com/marcomadera/image/upload/v1602894559/Blog/7/css_k23ypb.png" width="50px" height="50px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="50px" height="50px">
-<img src="https://img.icons8.com/color/480/bootstrap.png" width="50px" height="50px">
-<img src="https://img.icons8.com/color/452/redux.png" width="50px" height="50px">  
-</div>
- HTLM  • JavasScrpt • CSS • React.js • Bootstrap • Redux
-<br>
-
-#### Back-End
-<div style={{ display:'flex' }}>
-<img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" width="120px" height="50px" c>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="120px" height="50px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="50px" height="50px">
-<img src="https://brandslogos.com/wp-content/uploads/thumbs/sequelize-logo-vector.svg" width="50px" height="50px">
-</div>  
-   Node JS • Express
----
-<!-- markdownlint-enable MD033 -->
- <br>
- #### Data Base
- <div style={{ display:'flex' }}>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="50px" height="50px">
-<img src="https://brandslogos.com/wp-content/uploads/thumbs/sequelize-logo-vector.svg" width="50px" height="50px">
-</div> 
- • PostgreSQL • Sequelize
----
-<!-- markdownlint-enable MD033 -->
- <br>
+</p><h2 align="center">Languages and tools:</h2><p align="left"> 
  
-<h3> Contáctame </h3>
+<div align="center">
+• Javascript
+• TypeScript
+• Git
+• React.js
+• Redux
+• HTML
+• CSS
+• NodeJs 
+• Express
+• Postman
+• PostgreSQL
+• Sequelize
+• Babel
+
+</div>
+
+<div align="center" >
+
+<!-- <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a>   
+<a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40" /> </a> 
+<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a> -->
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a> 
+<a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a> 
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
+<a href="https://expressjs.com" target="_blank"><img src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" background-color="#ffffff" alt="express" width="50" height="50" /> </a>
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a>
+<a href="https://sequelize.org/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/file-type-sequelize-icon-443x512-ck0z81j3.png" alt="kotlin" width="40" height="40" /> </a> 
+<a href="https://babeljs.io/" target="_blank"><img src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" background-color="white" alt="babel" width="50" height="50" margin-top="100px" /> </a>
+</a><a href="https://reactnative.dev/" target="_blank"><img src="https://www.theblocklearning.com/wp-content/uploads/2018/09/512px-React-icon.svg.png" alt="reactnative" width="60" height="40" /> </a>
+
+<br></br>
+<hr>
+ 
+ 
+## Contáctame
 
 <p align="center">
     <a href="https://www.linkedin.com/in/franco-oropel/" ><img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="Linkedin Logo" height="70" >
