@@ -49,11 +49,8 @@ Soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a>
 <a href="https://sequelize.org/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/file-type-sequelize-icon-443x512-ck0z81j3.png" alt="kotlin" width="40" height="40" /> </a> 
 <a href="https://babeljs.io/" target="_blank"><img src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" background-color="white" alt="babel" width="50" height="50" margin-top="100px" /> </a>
-</a><a href="https://reactnative.dev/" target="_blank"><img src="https://www.theblocklearning.com/wp-content/uploads/2018/09/512px-React-icon.svg.png" alt="reactnative" width="60" height="40" /> </a>
 
 <br></br>
-<hr>
- 
  
 ## Contáctame
 
@@ -65,7 +62,6 @@ Soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos
 ---
 
 <!--
-### Hi there 👋
 **F-ranco/F-ranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -78,8 +74,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<h3 align="center">¡Hola 👋! Me llamo Franco, podes decirme Fran, tengo 21 años y soy Full Stack Developer con orientación a Back-End.
-Soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos en el mundo de la programación <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-¡Me gustaria conocerte y compartirte mis habilidades!</h3>
 -->
