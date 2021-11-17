@@ -12,7 +12,7 @@
 ## Contáctame 
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/franco-oropel/" ><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin Logo" height="50" >
+    <a href="https://www.linkedin.com/in/franco-oropel/" ><img src="https://e7.pngegg.com/pngimages/342/689/png-clipart-linkedin-logo-icon-others-blue-text.png" alt="Linkedin Logo" height="50" >
     <a href="mailto:francooropel00@gmail.com" ><img src="https://1000marcas.net/wp-content/uploads/2019/11/logo-Gmail-1.jpg" alt="Gmail Logo" height="80" >
 </p>
 
