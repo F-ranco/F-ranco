@@ -28,6 +28,7 @@ Soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos
 • Postman
 • PostgreSQL
 • Sequelize
+• Webpack
 • Babel •
 
 </div>
@@ -50,6 +51,7 @@ Soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a>
 <a href="https://sequelize.org/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/file-type-sequelize-icon-443x512-ck0z81j3.png" alt="kotlin" width="40" height="40" /> </a> 
+ <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" /> </a>
 <a href="https://babeljs.io/" target="_blank"><img src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" background-color="white" alt="babel" width="50" height="50" margin-top="100px" /> </a>
 
 <br></br>
