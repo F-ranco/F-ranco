@@ -28,7 +28,7 @@ Soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos
 • Postman
 • PostgreSQL
 • Sequelize
-• Babel
+• Babel •
 
 </div>
 
