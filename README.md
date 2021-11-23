@@ -56,7 +56,7 @@ Soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos
 
 <br></br>
     
-## 📘 Mis proyectos
+## Mis proyectos:
 
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
