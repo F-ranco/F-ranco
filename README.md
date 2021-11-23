@@ -61,7 +61,7 @@ Soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/F-ranco/PI-Franco-Food"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=F-ranco&repo=PI-Franco-Food&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="FrankFood App"></a>
+  <a href="https://github.com/F-ranco/PI-Franco-Food"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=F-ranco&repo=FrankFood%App&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="FrankFood App"></a>
     
 <br></br>
     
