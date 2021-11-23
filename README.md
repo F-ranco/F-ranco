@@ -55,8 +55,17 @@ Soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos
 <a href="https://babeljs.io/" target="_blank"><img src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" background-color="white" alt="babel" width="50" height="50" margin-top="100px" /> </a>
 
 <br></br>
- 
+    
+## 📘 Mis proyectos
 
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<p align="left">
+  <a href="https://github.com/F-ranco/PI-Franco-Food"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=F-ranco&repo=PI-Franco-Food
+&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="FrankFood App"></a>
+
+<br></br>
+    
 </p><h2 align="center">Contáctame:</h2><p align="left"> 
   
 <p align="center">
