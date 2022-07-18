@@ -13,19 +13,6 @@ Soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos
 
 <br></br>
 
-</p><h2 align="center">Experiencia laboral:</h2><p align="left"> 
-
-    <p align="center"><em>Me encuentro trabajando en <a href="https://www.revaicare.com/" Revai> desde Diciembre de 2021></p>
-<br></br>
-<p align="center"><em>Backend: Microservicios con JavaScript y TypeScript en MySQL y MongoDB, utilizando Express, Sequelize, Docker y AWS cloud.></p>
-<p align="center"><em>- Frontend: desarrollado con React y Redux utilizando Material UI y Socket.IO></p>
-<p align="center"><em>- Documentación con Swagger.></p>
-<p align="center"><em>- Metodología SCRUM.></p>
- 
-</em></p>
-
-<br></br>
-
 </p><h2 align="center">Lenguajes y habilidades:</h2><p align="left"> 
  
 <div align="center">
